@@ -1,13 +1,13 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-name "teezy-Carrental"
-author 'Teezy Core'
-description 'An Advanced Car Rental System for FiveM QBCore Framework Originally Made by NaorNC'
+name "rental"
+author 'nv'
+description 'An Advanced Car Rental System for FiveM QBCore Framework upgraged by novadev'
 version '1.0.0'
 
 shared_scripts {
-    '@ox_lib/init.lua', -- ox_lib'i ekledik ✅
+    '@ox_lib/init.lua', 
     'config.lua'
 }
 
@@ -20,3 +20,4 @@ server_scripts {
 }
 
 lua54 'yes'
+
