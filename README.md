@@ -1,2 +1,2 @@
 # nova-rental
-Basic car rental system for qb-core and ox_lib
+Basic car rental system for qb-core and ox_lib by novadev.
