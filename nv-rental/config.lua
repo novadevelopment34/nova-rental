@@ -36,9 +36,9 @@ Config.rentalTimes = {
 --@description = You can add as many locations as you want, just make sure you add a comma after the last bracket. 
 Config.Locations = {
     ["rentalstations"] = {
-        [1] = { label = "Rental Stations", coords = vector4(-1042.35, -2727.65, 20.17, 334.69), model = `cs_carbuyer`, scenario = "WORLD_HUMAN_CLIPBOARD"},
-        [2] = { label = "Rental Stations", coords = vector4(462.75, -1676.62, 29.29, 5.02), model = `cs_carbuyer`, scenario = "WORLD_HUMAN_CLIPBOARD"},
-        [3] = { label = "Rental Stations", coords = vector4(-1442.49, -673.65, 26.53, 288.07), model = `cs_carbuyer`, scenario = "WORLD_HUMAN_CLIPBOARD"},
+        [1] = { label = "Araç Kiralama", coords = vector4(-1042.35, -2727.65, 20.17, 334.69), model = `cs_carbuyer`, scenario = "WORLD_HUMAN_CLIPBOARD"},
+        [2] = { label = "Araç Kiralama", coords = vector4(462.75, -1676.62, 29.29, 5.02), model = `cs_carbuyer`, scenario = "WORLD_HUMAN_CLIPBOARD"},
+        [3] = { label = "Araç Kiralama", coords = vector4(-1442.49, -673.65, 26.53, 288.07), model = `cs_carbuyer`, scenario = "WORLD_HUMAN_CLIPBOARD"},
     },
 }
 
@@ -68,3 +68,4 @@ Config.vehicleSpawn = {
         },
     },
 }
+
